@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/Users/melvi/AndroidStudioProjects/inicioSesion/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/melvi/AndroidStudioProjects/inicioSesion/app/src/main/res/layout/activity_main_activitylogin.xml" value="0.2" />
+        <entry key="..\:/Users/melvi/AndroidStudioProjects/inicioSesion/app/src/main/res/layout/activity_main_activityregister.xml" value="0.25" />
         <entry key="..\:/Users/melvi/AndroidStudioProjects/inicioSesion/app/src/main/res/layout/activity_main_amikos.xml" value="0.2" />
+        <entry key="..\:/Users/melvi/AndroidStudioProjects/inicioSesion/app/src/main/res/layout/activity_main_splash.xml" value="0.25" />
       </map>
     </option>
   </component>
