@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "238129839103",
+    "project_id": "logi-nuevo",
+    "storage_bucket": "logi-nuevo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238129839103:android:587c2910182593069145ca",
+        "android_client_info": {
+          "package_name": "com.example.iniciosesion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238129839103-vpe8ib1drjdikr3s9u62uo5b6pf90gj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnYacIlY1FMdjs_m-vE3uc5tWLMavexNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238129839103-vpe8ib1drjdikr3s9u62uo5b6pf90gj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238129839103:android:9a4262b8eb10ee909145ca",
+        "android_client_info": {
+          "package_name": "com.example.logi_nuevo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238129839103-vpe8ib1drjdikr3s9u62uo5b6pf90gj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnYacIlY1FMdjs_m-vE3uc5tWLMavexNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238129839103-vpe8ib1drjdikr3s9u62uo5b6pf90gj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

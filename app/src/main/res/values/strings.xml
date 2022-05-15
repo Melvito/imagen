@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">inicioSesion</string>
+    <string name="ingresa_tu_correo">Ingresa tu correo</string>
+    <string name="no_tienes_cuenta_aun">¿No tienes cuenta aun?</string>
+    <string name="registrate">Registrate</string>
+    <string name="ingresa_tu_password">Ingresa tu password</string>
+</resources>
