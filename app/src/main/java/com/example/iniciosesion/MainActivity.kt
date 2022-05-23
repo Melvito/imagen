@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
             if (it.isSuccessful) {
                 Toast.makeText(this, "Acceso Autorizado!", Toast.LENGTH_SHORT).show()
 
-                val intent = Intent(this, MainAmikos::class.java)
+                val intent = Intent(this, MainActivity3::class.java)
                 startActivity(intent)
                 // cerramos actividad actual
                 finish()
